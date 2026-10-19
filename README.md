@@ -24,3 +24,9 @@ The `lab-notebook.svg` wallpaper is original. Lab Notebook OS is an independent 
 
 See [FEATURES.md](FEATURES.md) for three local tools included for scientific computing.
 
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
