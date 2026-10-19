@@ -55,3 +55,20 @@ org.kde.dolphin
 io.github.flattool.Warehouse
 org.gnome.meld
 org.blender.Blender
+
+# Fifteen further purpose-specific applications
+org.kde.marble
+org.kde.kgeography
+org.kde.kgeotag
+org.kde.kst
+org.kde.labplot
+org.kde.kstars
+org.kde.kphotoalbum
+org.kde.tellico
+com.github.jeromerobert.pdfarranger
+org.localsend.localsend_app
+net.cozic.joplin_desktop
+org.kde.kbackup
+org.gnome.DejaDup
+org.kde.krename
+org.kde.skanpage
