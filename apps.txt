@@ -54,3 +54,4 @@ org.kde.ark
 org.kde.dolphin
 io.github.flattool.Warehouse
 org.gnome.meld
+org.blender.Blender
